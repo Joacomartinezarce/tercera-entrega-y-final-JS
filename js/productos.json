@@ -1,0 +1,63 @@
+[
+    {
+        "id": "mate-01",
+        "titulo": "Mate de cuerina verde",
+        "imagen": "./assets/00.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "Mates"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "mate-02",
+        "titulo": "Mate de cerámica artesanal naranja",
+        "imagen": "./assets/01.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "Mates"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "mate-03",
+        "titulo": "Mate de cerámica artesanal verde",
+        "imagen": "./assets/02.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "Mates"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "mate-04",
+        "titulo": "Mate de cuerina negro",
+        "imagen": "./assets/03.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "Mates"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "mate-05",
+        "titulo": "Mate uruguayo de calabaza, forrado en cuero y virola de acero inox",
+        "imagen": "./assets/04.jpg",
+        "categoria": {
+            "nombre": "Mates",
+            "id": "Mates"
+        },
+        "precio": 15000
+    },
+    {
+        "id": "yerbera-01",
+        "titulo": "Yerbera y azucarera de Eco cuero",
+        "imagen": "./assets/05.jpg",
+        "categoria": {
+            "nombre": "Accesorios",
+            "id": "Accesorios"
+        },
+        "precio": 6000
+    }
+
+]
